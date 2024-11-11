@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Centers content */
+}
+
+header {
+    padding: 20px;
+    background-color: #f4f4f4;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    font-size: 3em; /* Make the heading big */
+    margin: 0;
+}
+
+.logo {
+    width: 80px; /* Adjust logo size */
+    margin-bottom: 10px; /* Adds space between logo and company name */
+}
+
+.search-section {
+    margin-top: 40px;
+    text-align: center;
+}
+
+#search-bar {
+    width: 300px;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+}
+
+#results {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    min-height: 200px; /* Space for displaying results */
+}
