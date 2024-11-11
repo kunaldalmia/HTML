@@ -1,0 +1,22 @@
+[
+    { 
+        "name": "Apple", 
+        "price": "$1.29 each", 
+        "store": "Walmart Canada" 
+    },
+    { 
+        "name": "2% Milk, 4L", 
+        "price": "$4.69", 
+        "store": "Walmart Canada" 
+    },
+    { 
+        "name": "Eggs, Dozen", 
+        "price": "$3.79", 
+        "store": "Walmart Canada" 
+    },
+    { 
+        "name": "Chicken Breast", 
+        "price": "$10.99 per kg", 
+        "store": "Walmart Canada" 
+    }
+]
